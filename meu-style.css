@@ -8,7 +8,9 @@
     max-width: 768px;
     margin-inline: auto;
     padding-inline: clamp(1rem, 1vw, 2rem);
-    margin-top: 10vh;
+    
+    /* espaçamento do topo do container (1vh = 1% da altura da tela) */
+    padding-top: 10vh;
 }
 .divisor{
     margin: 15px 0;
