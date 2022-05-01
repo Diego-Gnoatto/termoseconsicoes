@@ -1,6 +1,13 @@
 :root{
+    /* titulos */
     --background-color: #ededed;
     --titles-color: #333333;
     --text-color: #4f4f4f;
-    --button--radius:4px;
+    /* botao */
+    --button-radius:4px;
+    --button-background-image: linear-gradient(to bottom, #ffffff, #dfdfdf);
+    --button-hover-background-image: linear-gradient(to bottom, #2743be, #161b93);
+    /* links */
+    --link-color: #2743be;
+    --link-hover-color: #3052ea;
 }

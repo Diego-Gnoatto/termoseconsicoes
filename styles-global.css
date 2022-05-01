@@ -38,3 +38,18 @@ ul{
 li{
     color: var(--titles-color);
 }
+a:active,a:focus,a:hover{
+    outline: 0 !important;
+}
+a{
+    color: var(--link-color);
+    text-decoration: underline;
+    font-weight: 400;
+    background-color: transparent;
+    cursor: pointer;
+    line-height: 1.4;
+    transition: 0.1s all linear;
+}
+a:hover{
+    color: var(--link-hover-color);
+}
