@@ -1,5 +1,6 @@
 :root{
-    --background-color: #dfdfdf;
+    --background-color: #ededed;
     --titles-color: #333333;
     --text-color: #4f4f4f;
+    --button--radius:4px;
 }
