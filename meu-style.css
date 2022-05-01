@@ -1,0 +1,23 @@
+
+
+/* CONTAINER RESPONSIVO */
+
+.container{
+    min-height: 100vh;
+    border: 1px rgb(141, 141, 141) dashed;
+    max-width: 768px;
+    margin-inline: auto;
+    margin-top: 10vh;
+    padding-inline: clamp(1rem, 1vw, 2rem);
+}
+.divisor{
+    width: 100%;
+    height: 1px;
+    background-color: rgb(141, 141, 141);
+    padding-inline: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+img{
+    width: 200px;
+}
